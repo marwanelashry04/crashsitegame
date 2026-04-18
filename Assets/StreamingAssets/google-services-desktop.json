@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "41371248804",
+    "project_id": "crashsite-8b07e",
+    "storage_bucket": "crashsite-8b07e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41371248804:android:c991c1e881ea855e639e31",
+        "android_client_info": {
+          "package_name": "com.example.crashsite"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL_ZGS62GphR30XsGlxEQ8f0-sSgnEkR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
